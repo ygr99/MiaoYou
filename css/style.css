@@ -8,7 +8,7 @@ body {
     min-height: 100%;
     position: relative;
     transition: padding 0.2s ease-in-out;
-    background: #fff url("https://wangguanjingji.oss-cn-beijing.aliyuncs.com/picture/%E7%8C%AB%E6%9F%9A%E6%B1%81%E6%B1%81.jpg") ;
+    background: #fff url("https://wangguanjingji.oss-cn-beijing.aliyuncs.com/picture/%E7%8C%AB%E6%9F%9A%E6%B1%81%E6%B1%81.jpg") no-repeat;
 }
 /* @media screen and (max-width: 300px) {
     .shoujibengji {
@@ -31,7 +31,7 @@ body {
 }
 
 .htmleaf-demo a {
-    font-size: 0.01px;
+    font-size: 6px;
     color: #fff;
     background: #67b3e7;
     text-decoration: none;
@@ -42,7 +42,7 @@ body {
     border-radius: 12px;
     font-weight: 200;
     width: 110px;
-    width: 180px;
+    width: 160px;
 }
 
 .htmleaf-demo a:hover {
